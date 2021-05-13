@@ -1,2 +1,4 @@
 #define five 5
 #define six 6
+
+#define k 6
